@@ -1,0 +1,15 @@
+spring:
+  security:
+    user:
+      name: sang
+      password: 123
+      roles: admin
+
+book:
+  name: 三国演义
+  author: 罗贯中
+  price: 30
+  readers:
+    - 小明
+    - 小李
+    - 小可
